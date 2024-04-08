@@ -1,7 +1,1 @@
-<<<<<<< Updated upstream
-testovanie
-=======
-jira
-SQL
->>>>>>> Stashed changes
 API

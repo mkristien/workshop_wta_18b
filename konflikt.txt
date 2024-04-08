@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 <<<<<<<<< Temporary merge branch 1
 testovanie
 =========
 html
 >>>>>>>>> Temporary merge branch 2
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+jira
+=======
+html
+>>>>>>> 0d8f1ccb4402c330c21d05fe508f30326af9cf4b
+=======
+api
+
+>>>>>>> 3898250b8c36a0c538cc3fa549e968b2279ac3a4
+>>>>>>> 342205ad37d7b6a088e47620dfb88722d55df887
